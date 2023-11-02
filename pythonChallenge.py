@@ -1,3 +1,6 @@
+
+
+
 #calculate the initial number of classes
 #calculate the number of students per class
 #allocate students to classes
