@@ -1,8 +1,11 @@
+
+
+
 #calculate the initial number of classes
 #calculate the number of students per class
 #allocate students to classes
 #print "Proposed Allocation:", proposed_classes, "classes"
-#print allocation
+#print allocation.
 
 def allocate_classes(num_students):
     max_class_size = 30
